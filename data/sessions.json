@@ -1,0 +1,254 @@
+{
+	"keynote" : {	
+		"title" : "Keynote",
+		"speaker" : "Miško Hevery and Brad Green",
+		"datetime" : 1389888000000,
+		"youtube" : "r1A1VR0ibIQ",
+		"image" : "logo-small.png",
+		"length" : "34:29",
+		"description" : null
+	},
+	"angularjs-in-20ish-minutes" : {	
+		"title" : "AngularJS in 20ish Minutes",
+		"speaker" : "Dan Wahlin",
+		"datetime" : 1389890700000,
+		"youtube" : "tnXO-i7944M",
+		"image" : "dan-wahlin.png",
+		"length" : "19:50",
+		"description" : "Data binding, directives, scope, controllers, and factories – oh my! While there are a lot of pieces to AngularJS, they're easy to work with once you know how they fit together. In this session Dan Wahlin will highlight the key pieces you need to know to get started using AngularJS and demonstrate how they work together. If you're new to AngularJS this session will help jumpstart the learning process."		
+	},
+	"writing-a-massive-angular-app" : {	
+		"title" : "Writing a Massive Angular App",
+		"speaker" : "The Google Double Click Team",
+		"datetime" : 1389892200000,
+		"youtube" : "62RvRQuMVyg",
+		"image" : "logo-small.png",
+		"length" : "36:18",
+		"description" : "Discuss the main technical challenges and solutions for large AngularJS applications. Learn about the main code reuse patterns and when to use them, going beyond AngularJS' $resource service for custom server communication, authorization, conditional feature loading, and more."		
+	},
+	"going-postal-with-angular-in-promises" : {	
+		"title" : "Going Postal with Angular in Promises",
+		"speaker" : "Christian Lilley",
+		"datetime" : 1389894900000,
+		"youtube" : "XcRdO5QVlqE",
+		"image" : "christian-lilley.png",
+		"length" : "20:25",
+		"description" : "Let's get a little crazy, share some visions of Promises as the Mailbox and Deferreds as the Postman, and then lay waste to everybody who's still harshing our mellow with pyramids of doom and callback spaghetti. We all know the sexy Angular buzzwords of 'Dependency Injection', 'modularity', 'HTML as a DSL', etc, etc. But the promise pattern (and lazy promises, no less!) is also baked right into the fabric of Angular, and doesn't get half the press of those other poseurs. Yet it will change your code to the very bones! We'll start with an overview of the essential promise pattern, then dive into the sundry ways that Angular leverages it to convert your async anger to promise paradise, especially in version 1.2. Plus! Bonus references to obscure Kevin Costner Sci-Fi flicks!"		
+	},
+	"deep-dive-into-custom-directives" : {	
+		"title" : "Deep Dive into Custom Directives",
+		"speaker" : "Dave Smith",
+		"datetime" : 1389896400000,
+		"youtube" : "UMkd0nYmLzY",
+		"image" : "dave-smith.png",
+		"length" : "33:49",
+		"description" : null		
+	},
+	"progressive-saving" : {	
+		"title" : "Progressive Saving",
+		"speaker" : "John Papa",
+		"datetime" : 1389904200000,
+		"youtube" : "JLij19xbefI",
+		"image" : "john-papa.png",
+		"length" : "18:54",
+		"description" : "Quite often we force users to to save or cancel data, before moving on when what they really want is to leave the page in a changed state and come back to their work in progress later, perhaps after closing the browser. This requires change tracking, local storage, serializing and rehydrating complex object graphs, not to mention visual indicators to improve the user experience. Come learn how when AngularJS meets BreezeJS we can light up this scenario."		
+	},
+	"rapid-prototyping-with-angular-and-deployd" : {	
+		"title" : "Rapid Prototyping with Angular & Deployd",
+		"speaker" : "Jeff Cross",
+		"datetime" : 1389905700000,
+		"youtube" : "0V8fQoqQLLA",
+		"image" : "jeff-cross.png",
+		"length" : "19:47",
+		"description" : "Deployd and Angular are a match made in heaven. Angular makes front end applications fun, and deployd makes APIs fun. Jeff Cross, a member of the Angular team at Google and co-creator of deployd, is going to demonstrate how to take an app from concept to production in under half an hour using these and other tools."		
+	},
+	"rich-data-models-and-angular" : {	
+		"title" : "Rich Data Models & Angular",
+		"speaker" : "Ben Teese",
+		"datetime" : 1389907800000,
+		"youtube" : "JfykD-0tpjI",
+		"image" : "ben-teese.png",
+		"length" : "20:04",
+		"description" : "Super excited about Angular? Ready to change the world and build a super-heroic app? With directives, Angular has pretty much nailed it when it comes to interacting with the DOM. And plain-old Javascript objects as models? AWESOME! Wait, hang on. Say that you're building a app that has lots of business logic and interrelated data. For that sort of app, history shows us that a rich object model can often be the best place to put your logic and data relationships - from both a testing and ease-of-development perspective. That's the approach that frameworks like Ember advocate - but Ember forces you to extend on its own object model."		
+	},
+	"angular-weapon-defense" : {	
+		"title" : "Angular Weapon Defense",
+		"speaker" : "Tom Valletta and Gabe Dayley",
+		"datetime" : 1389909300000,
+		"youtube" : "f62k7b753-Y",
+		"image" : "logo-small.png",
+		"length" : "20:07",
+		"description" : null		
+	},
+	"filters-beyond-orderby-and-limitto" : {	
+		"title" : "Filters: Beyond OrderBy and LimitTo",
+		"speaker" : "Sharon DiOrio",
+		"datetime" : 1389910800000,
+		"youtube" : "L4FJ_kuO9Rc",
+		"image" : "sharon-diorio.png",
+		"length" : "15:35",
+		"description" : "What happens when your data comes back from your service but it isn't exactly formatted or ordered the way you want? Or if your users want more control over how the data is displayed? No need to make another service call or invoke some intermediate service to format the data, filters do the work for you. Directives get all all the praise, but filters are fantastic tools for data transformations big and small. They are lightning fast, almost unlimited in flexibility, and in many cases can even make directives unnecessary. Tied to user-interactions, you can thrill and delight your users by handing them back exactly the data they wanted in a way that makes the most sense to them. I'll explain how filters actually work behind the scenes and show a few useful examples of built-in and custom filters beyond the usual \"filter\" and \"orderBy\" examples commonly found in tutorials."		
+	},
+	"awesome-interfaces-with-angularjs-animations" : {	
+		"title" : "Awesome Interfaces with AngularJS Animations",
+		"speaker" : "Lukas Rubbelke & Matias Niemela",
+		"datetime" : 1389913200000,
+		"youtube" : "hC0MpgUoui4",
+		"image" : "logo-small.png",
+		"length" : "21:35",
+		"description" : "AngularJS has earned a reputation for being a great framework for enterprise CRUD applications but with AngularJS animations you no longer have to sacrifice form for function. If you are looking to take your web application's UX to the next level then AngularJS animations are an easy and approachable way to accomplish that goal. We will deconstruct some great examples from the wild and show you how to accomplish the same effect with AngularJS. Enhanced HTML is awesome but with this new super slick addition, you have all the tools you need to provide compelling and engaging experiences without even breaking a sweat. @simpulton"		
+	},
+	"dependency-injection" : {	
+		"title" : "Dependency Injection",
+		"speaker" : "Vojta Jina",
+		"datetime" : 1389915600000,
+		"youtube" : "_OGGsf1ZXMs",
+		"image" : "vojta-jina.png",
+		"length" : "25:40",
+		"description" : "Vojta is going to be talking about Dependency Injection. It is going to be awesome."		
+	},
+	"angular-team-panel" : {	
+		"title" : "Angular Team Panel",
+		"speaker" : "Angular Team",
+		"datetime" : 1389918000000,
+		"youtube" : "srt3OBP2kGc",
+		"image" : "logo-small.png",
+		"length" : "46:44",
+		"description" : null		
+	},	
+	"angular-equals-community-keynote" : {
+		"title" : "Angular === Community (Keynote)",
+		"speaker" : "Igor Minar",
+		"datetime" : 1389974400000,
+		"youtube" : "h-SQvre_6qU",
+		"image" : "igor-minar.png",
+		"length" : "42:23",
+		"description" : "The community has shaped Angular, there is no doubt about it. As the Angular project matured the community as well as the core team evolved with the project. The goal of this talk is to revisit the origins of Angular as well as look into the future and seed ideas about how the core team and the community could work better together in the future. This session will also cover Angular and new web standards"		
+	},
+	"how-to-use-typescript-on-your-angular-application-and-be-happy" : {
+		"title" : "How to use Typescript on your Angular Application and Be Happy",
+		"speaker" : "Sean Hess",
+		"datetime" : 1389978600000,
+		"youtube" : "u6TeBM_SC8w",
+		"image" : "sean-hess.png",
+		"length" : "19:41",
+		"description" : "Typescript is a compile-to-JavaScript language that adds ES6 features, and optional type system. Using strict types in an application allows you to catch errors much earlier in the development cycle, avoid regressions, and greatly increases ease of maintenance. Modern type systems like the one included in Typescript make typing a joy to use. The types in TypeScript are optional, meaning you can incrementally add it to a project. The productivity gains from strict typing outweigh those from testing, and are easier to realize. It's not immediately obvious how to structure a Typescript+Angular project. Typescript uses ES6 modules, which conflict with Angular's module system, and it's hard to know when to use classes, how to set up the project, how to get the compiler to typescript angular itself, etc. I will spend a short time talking about WHY people should use Typescript on an angular project, but the presentation will be mostly hands-on and technical, showing where to put files, what tools to use, and how to do it productively."		
+	},
+	"building-realtime-apps-with-firebase-and-angular" : {
+		"title" : "Building Realtime Apps With Firebase and Angular",
+		"speaker" : "Anant Narayanan",
+		"datetime" : 1389980100000,
+		"youtube" : "e4yUTkva_FM",
+		"image" : "anant-narayanan.png",
+		"length" : "21:08",
+		"description" : "Firebase is listed as the default way to add a backend to your Angular app on the AngularJS homepage. Come and see why. In this talk you'll learn about how to use Firebase and Angular together and learn why building a modern realtime app will never be the same again."		
+	},
+	"angular-directives-that-scale" : {
+		"title" : "Angular Directives that Scale",
+		"speaker" : "Burke Holland",
+		"datetime" : 1389981600000,
+		"youtube" : "TQoV0Jt3IJg",
+		"image" : "burke-holland.png",
+		"length" : "16:45",
+		"description" : "As more and more jQuery developers begin to adopt AngularJS as their full stack framework of choice, they are staring down the possibility of creating a lot of directives. And what if their favorite UI library doesn't have directives for Angular? Should they create their own? Does every UI widget really need it's own directive? The open source project Angular Kendo UI faced this same challenge. With nearly 40 widgets and charts in various configurations, building a directive for every widget looked like a daunting task. How do we create directives that scale as our UI libraries get larger? Does it always have to be a one to one relationship? In this talk, we'll look at some alternatives for building directives for AngularJS that will scale with your UI needs."		
+	},
+	"dart-its-angular-too" : {
+		"title" : "Dart, it's Angular Too",
+		"speaker" : "James Deboer",
+		"datetime" : 1389983100000,
+		"youtube" : "RqKUTGB-CxA",
+		"image" : "james-deboer.png",
+		"length" : "29:02",
+		"description" : "We've ported the Angular framework to the new Dart language. This talk will introduce AngularDart and devel into the Angular team's motivation in porting AngularJS to the new Dart language. We will look the evolution of Angular features: transclusion, directives and 3rd-party library integration in AngularDart. Consider this a preview of several AngularJS 2.0 features!"		
+	},
+	"zones" : {
+		"title" : "Zones",
+		"speaker" : "Brian Ford",
+		"datetime" : 1389990600000,
+		"youtube" : "3IqtmUscE_U",
+		"image" : "brian-ford.png",
+		"length" : "16:34",
+		"description" : null		
+	},
+	"angular-with-browserify" : {
+		"title" : "Angular with Browserify",
+		"speaker" : "Ben Clinkinbeard",
+		"datetime" : 1389992400000,
+		"youtube" : "NTPutZ99XWY",
+		"image" : "ben-clinkinbeard.png",
+		"length" : "15:18",
+		"description" : "Browserify is client side dependency management done right. It enables developers to write client side JavaScript using the CommonJS module format, just like in Node. That means intricate script tag soup and the boilerplate of AMD are completely unnecessary. Not only that, but it opens the door to using thousands of modules from npm, and enables you to write modules that can be used on the client or server interchangeably. Browserify even provides shims of several Node core APIs like EventEmitter, path, and others. This session will introduce Browserify and the CommonJS module format, discuss the benefits they provide, and demonstrate how to utilize those benefits in the context of an Angular app. Angular apps, module definitions, and code organization is a cinch with Browserify, and more people should know it."		
+	},
+	"angular-plus-requirejs-and-angular-decorators" : {
+		"title" : "Angular + RequireJS & Angular Decorators",
+		"speaker" : "Thomas Burleson",
+		"datetime" : 1389993600000,
+		"youtube" : "4yulGISBF8w",
+		"image" : "thomas-burleson.png",
+		"length" : "20:05",
+		"description" : "Did you know that Angular provides Decorators to add or inject extra behaviors to existing services ?Learn how Decorators and RequireJS are used to build sophisticated extensions to $log. Use $log features to track your code's activity, workflow, and timing; you can even report activity to your browser, app, or remote server."		
+	},
+	"using-angularjs-to-create-iphone-and-android-applications-with-phonegap" : {
+		"title" : "Using AngularJS to create iPhone & Android applications with PhoneGap",
+		"speaker" : "Daniel Zen",
+		"datetime" : 1389996000000,
+		"youtube" : "wVntVkRLR3M",
+		"image" : "daniel-zen.png",
+		"length" : "21:34",
+		"description" : "You no longer have to know Objective C, Java to create apps fro iOS & Android. Reuse code, your team and your AngularJS knowledge to create not only mobile websites, but cross platform native applications that can be deployed to app stores and be installed directly on handsets. Walk away with a simple sample app and a deeper understanding of the places AngularJS can be used. This talk will we cover Setup of a PhoneGap (Apache Cordova) project using the AngularJS framework using npm, bower, grunt & cordova. Directory structure for a sample AngularJS application Compilation to iOS with Xcode & Android with Eclipse ADT. What is Adobe PhoneGap Build & how to use it. Brief discussion on PhoneGap APIs (Sensor API: Geo-location accelerometer, camera, etc. Data APIs: file-system, contact information, etc) Using Local Storage Angular Routing inside PhoneGap Pitfalls, suggestions & best practices"		
+	},
+	"giving-a-human-face-to-robotics-powering-interfaces-with-angularjs-to-the-arduino" : {
+		"title" : "Giving a human face to robotics: powering interfaces with AngularJS to the Arduino",
+		"speaker" : "Ari Lerner",
+		"datetime" : 1389997800000,
+		"youtube" : "MhVgGE-pgEY",
+		"image" : "ari-lerner.png",
+		"length" : "20:51",
+		"description" : "In this talk, we'll discuss the power of the arduino to interface software with the rest of our human experience. We'll discuss the real-time nature of the arduino and how we can surface the sensor data through a real-time interface. We'll explore the power Angular affords us to make these interfaces rapidly as well as the best practices to how to build them, using services, directives, and sockets. In this presentation, we'll demo our robotic interfaces and publicly release our source to encourage audience participation."		
+	},
+	"end-to-end-angular-testing-with-protractor" : {	
+		"title" : "End to End Angular Testing with Protractor",
+		"speaker" : "Julie Ralph",
+		"datetime" : 1389999300000,
+		"youtube" : "aQipuiTcn3U",
+		"image" : "julie-ralph.png",
+		"length" : "18:46",
+		"description" : null		
+	},
+	"using-ngmodelcontroller-to-make-sexy-custom-components" : {
+		"title" : "Using ngModelController to Make Sexy Custom Components",
+		"speaker" : "Jason Aden",
+		"datetime" : 1390000800000,
+		"youtube" : "jVzymluqmg4",
+		"image" : "jason-aden.png",
+		"length" : "16:52",
+		"description" : "A dive into ngModelController and how to use it to create awesome directives and reusable components. Topics covered will include: Implementing the $render() method Updating the $modelValue using $setViewValue() Working with $parsers and $formatters Overview of additional ngModelController properties Creating and using custom validators Tie everything together to make a sexy custom component"		
+	},
+	"photohunt" : {	
+		"title" : "PhotoHunt",
+		"speaker" : "Silvano Luciani",
+		"datetime" : 1390002300000,
+		"youtube" : "I-TvWfXVR08",
+		"image" : "silvano-luciani.png",
+		"length" : "11:24",
+		"description" : "PhotoHunt uses AngularJS to let anyone submit photos on the web as part of a group \"scavenger hunt\" for images organized around a specific theme. Join Silvano Luciani, developer of PhotoHunt's web frontend, to learn more about why the PhotoHunt project chose Angular as the fastest and simplest way to develop their app. Find out why Angular was the best choice for a cross platform app developed for the web, Android and iOS."		
+	},
+	"angular-performance" : {	
+		"title" : "Angular Performance",
+		"speaker" : "The Double Click Team",
+		"datetime" : 1390003800000,
+		"youtube" : "zyYpHIOrk_Y",
+		"image" : "logo-small.png",
+		"length" : "24:16",
+		"description" : "We will discuss a number of tips, tricks, and tools that we've discovered and used to keep our application quick in spite of its large size. We'll cover best practices for using Angular's built-in features as well as hackier tricks and helpful directives we've developed in-house."		
+	},
+	"angularjs-orm" : {	
+		"title" : "AngularJS ORM",
+		"speaker" : "Dean Sofer",
+		"datetime" : null,
+		"youtube" : "Iw-3qgG_ipU",
+		"image" : "logo-small.png",
+		"length" : "29:39",
+		"description" : null		
+	}
+}

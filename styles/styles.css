@@ -1,0 +1,84 @@
+.logo h1 {
+	font-family: Arial, sans-serif;
+}
+
+.band.header {
+	background-color: #333;
+}
+
+.logo.columns.large-16 {
+	text-align: center;
+}
+
+.logo span {
+    color: #fff;
+    display: block;
+    font-size: 0.8em;
+}
+
+.band.header .container .columns {
+	margin-bottom: 0.8em;
+	margin-top: 0.6em;
+}
+
+.row > a {
+    border: 1px solid #FF0000;
+    margin: 0 auto;
+    width: 100px;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.sessions h2 {
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.session h2 {
+	margin-bottom: 0.8em;
+	text-align: left;
+}
+
+@media only screen and (max-width: 914px) {
+
+	h1 {
+	    font-size: 4em;
+	}
+
+	.band.header .container .columns {
+		margin-bottom: 0em;
+	}
+
+}
+
+@media only screen and (max-width: 500px) {
+
+	h1 {
+	    font-size: 3em;
+	}
+
+}
+
+.slide-animation.ng-enter {
+	-webkit-transition: 1s linear all;
+	transition: 1s linear all;
+	opacity: 0;
+}
+
+.slide-animation.ng-enter.ng-enter-active {
+	opacity: 1;
+}
+
+

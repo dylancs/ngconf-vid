@@ -1,0 +1,9 @@
+					<div class="columns large-16 session">
+						<p><a href="http://dylandevelops.com/ngconf-2014-videos">Return to Video List</a></p>
+						<h2>{{session.title}}</h2>
+						<co-youtube videoid="{{session.youtube}}"></co-youtube>
+						<p>Speaker: {{session.speaker}}</p>
+						<p>Event date: {{session.datetime | date:'EEEE, MMMM d, y h:mm a'}}</p>
+						<p>Length: {{session.length}}</p>
+						<p>Description: {{session.description}}</p>						
+					</div><!--/.columns-->

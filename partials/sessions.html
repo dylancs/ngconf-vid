@@ -1,0 +1,11 @@
+				<div class="columns small-16 sessions">
+					<h2>Search: <input ng-model="search" /></h2>
+					<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3 portfolio-img-list">
+						<li ng-repeat="(slug, session) in sessions | filterobj:search" class="video-session">
+							<a href="#/{{slug}}"><img ng-src="images/{{session.image}}" /><br />
+								<span>{{session.title}}</span><br />
+								<span>{{session.speaker}}</span>
+							</a>
+						</li>						
+					</ul>
+				</div><!--/.columns-->
